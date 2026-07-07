@@ -147,12 +147,8 @@ Repository dapat diakses melalui:
 
 ## 🍿 Expo Snack
 
-Tambahkan link Expo Snack setelah aplikasi berhasil diunggah.
 
-Contoh:
-
-```
-https://snack.expo.dev/@misyesinaga1-alt/nativepowerapp
+🔗 https://snack.expo.dev/@misyesinaga/nativepowerapp
 ```
 
 ---
